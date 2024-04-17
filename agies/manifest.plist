@@ -31,13 +31,13 @@
 				<key>bundle-identifier</key>
 				<string>com.pribit.application.packetgo.switch.ztna</string>
 				<key>bundle-version</key>
-				<string>2.6.0.0</string>
+				<string>2.3.2</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>platform-identifier</key>
 				<string>com.apple.platform.iphoneos</string>
 				<key>title</key>
-				<string>PribitConnect_Switcg_iOS_Deploy</string>
+				<string>Aegis_iOS_Deploy</string>
 			</dict>
 		</dict>
 	</array>
